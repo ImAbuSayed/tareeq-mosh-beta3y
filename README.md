@@ -13,6 +13,7 @@
 | Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/tareeq-mosh-beta3y/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Apply for Music License: Tareeq Mosh Beta3y](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
